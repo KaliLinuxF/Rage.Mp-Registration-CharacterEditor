@@ -1,0 +1,27 @@
+{
+  "name": "legend_role_play",
+  "version": "1.0.0",
+  "description": "The Legend Role Play - RAGE MP project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webitp/legend-rp-server.git"
+  },
+  "author": "vk.com/roflonton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webitp/legend-rp-server/issues"
+  },
+  "homepage": "https://github.com/webitp/legend-rp-server#readme",
+  "devDependencies": {
+    "@types/ragemp-c": "github:CocaColaBear/types-ragemp-c#v1.0",
+    "@types/ragemp-s": "github:CocaColaBear/types-ragemp-s#v1.0"
+  },
+  "dependencies": {
+    "googleapi": "^1.0.2",
+    "mysql": "^2.18.1"
+  }
+}
